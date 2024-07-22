@@ -1,0 +1,13 @@
+mkdir "folder name"- make directory
+cd "folder name" - open directory
+get init - initialize directory
+git status - show directory content
+git add "file_name" - add file to git
+git commit -m "message" - commit file on repository
+git config --global user.username "git hub account name"
+
+--Create your repository on Github and copy the link--
+
+git remote add origin "paste the link of github repository"
+git push origin master - push all files from local directory
+to Github repository.
